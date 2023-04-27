@@ -1,4 +1,4 @@
-<p align="center"><font size = 6>
+<p align="center"><font size = "6">
 <b>錢錢管家<br>
 Money Chambler</b>
 </font></p>
