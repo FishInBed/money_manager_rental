@@ -1,6 +1,6 @@
 <font size = "6">
-**錢錢管家<br>
-Money Chambler**
+錢錢管家<br>
+Money Chambler
 </font>
 
 ### 簡介 Introduction
